@@ -6,7 +6,7 @@ The core model is implemented in `deep_cnn.py` using only basic matrix operation
 
 ---
 
-## 🧠 Project Goal
+## Project Goal
 
 The goal of this project is to:
 - Implement a working CNN model without machine learning libraries.
@@ -16,7 +16,7 @@ The goal of this project is to:
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 ├── common/
@@ -28,7 +28,7 @@ The goal of this project is to:
 │
 ├── deep_cnn.py           # Main CNN model class (Simple CNN version)
 ├── train_deep_cnn.py     # Training script for the CNN model
-├── prediction_results.png  # ⬅️ Visualization of model predictions (example output)
+├── prediction_results.png  # Visualization of model predictions (example output)
 └── README.md             # Project description (this file)
 ```
 ---
