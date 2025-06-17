@@ -1,5 +1,5 @@
-Name: Intae Jun\\
-Major: Applied Statistics
+**Major:** Applied Statistics<br/>
+**University:** Yonsei University
 
 [LeetCode Profile – Turningtae](https://leetcode.com/u/Turningtae/)
 
